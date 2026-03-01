@@ -6,6 +6,7 @@ this is 100% reversed with Ghidra, none of my client has any of his code at all.
 
 but otherwise if you wanna help, my code is filled with tons of comments with useful addresses / offsets that i found while reversing his binaries.  
 
+vid:
 
   [![Watch the video](https://img.youtube.com/vi/G0OpM-Q4iA8/maxresdefault.jpg)](https://youtu.be/G0OpM-Q4iA8)
 
