@@ -1,0 +1,1 @@
+Reduces damage taken by players up to two thirds for 400 points.

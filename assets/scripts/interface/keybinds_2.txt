@@ -1,0 +1,14 @@
+MoveUp
+MoveDown
+MoveLeft
+MoveRight
+Inventory
+Equipment
+QuestLog
+SpellBook
+GuildRoster
+Map
+TargetSelf
+TargetParty1
+TargetParty2
+TargetParty3

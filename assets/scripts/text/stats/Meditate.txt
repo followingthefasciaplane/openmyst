@@ -1,0 +1,1 @@
+Recovers mana during combat, adding one tenth of this value every five seconds. Also improves your mana recovery out of combat.

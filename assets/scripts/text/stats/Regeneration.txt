@@ -1,0 +1,1 @@
+Recovers health during combat, adding one tenth of this value every five seconds. Also improves your health recovery out of combat.

@@ -1,0 +1,1 @@
+Improves your chance to Dodge melee and ranged attacks and abilities. The chance is this value divided by the attacker's level. Dodging avoids an attack entirely.

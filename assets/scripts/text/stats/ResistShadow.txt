@@ -1,0 +1,1 @@
+Gives you a chance to take half Shadow damage. The chance is this value divided by the attacker's level.
